@@ -1,0 +1,19 @@
+add_executable(
+        archiver
+        archiver.cpp
+        trie.h
+        trie.cpp
+        encoder.h
+        encoder.cpp
+        reader.h
+        writer.h
+        writer.cpp
+        reader.cpp
+        useful.h
+        useful.cpp
+        decoder.h
+        decoder.cpp
+        heap.h
+        heap.cpp
+        parser.cpp
+)
